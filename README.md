@@ -39,6 +39,7 @@ Most Affected Age Groups:
 **Least Affected Age Group**: 70–79 years: 1,048 patients
 
 **🏨 Department Referral Breakdown**
+
 No Referral: 5,400 patients
 
 Top Referral Departments:
@@ -58,11 +59,13 @@ Gastroenterology: 178
 Renal: 86
 
 **📈 Trends Observed**
+
 Satisfaction Score Trend remained consistently high across both years.
 
 Noticeable spikes in satisfaction during mid-year months and improved score stability over time.
 
 **🛠 Features**
+
 Year and Month filter interactivity
 
 Age, gender, referral, and attendance analysis
@@ -75,4 +78,5 @@ Clean and professional layout suitable for healthcare analytics
 
 
 **💡 Purpose**
+
 This dashboard highlights how Excel can be used as a powerful data visualization and reporting tool in healthcare environments. The project emphasizes the importance of tracking ER performance metrics, improving patient care, and using data to reduce delays and improve satisfaction.
