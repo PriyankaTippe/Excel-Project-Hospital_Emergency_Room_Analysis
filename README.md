@@ -2,58 +2,77 @@
 
 This project presents an Excel-based Hospital Emergency Room Dashboard that visually summarizes and analyzes patient data, offering actionable insights for healthcare administrators. The dashboard aims to improve decision-making through clear visual representation of key metrics such as patient flow, wait times, admission status, and satisfaction scores.
 
+📊 **Dashboard Insights (2023–2024 Combined)**
 
-📊 Dashboard Insights
-Here are the key insights derived from the dashboard:
+**🚑 General Overview**
 
-Total Number of Patients (July 2024): 488 patients visited the emergency room.
+**Total Number of Patients**: 9,216
 
-Admission Rate: 55% (266) of patients were admitted while 45% (222) were not admitted.
+**Average Wait Time**: 35.26 minutes
 
-Patient Attendance Status:
+**Patient Satisfaction Score**: 4.99 out of 5 (Excellent)
 
-41% (200) of patients were attended on time.
+**🏥 Admission Status**
+**Admitted**: 4,612 patients (≈50%)
 
-59% (288) of patients experienced delays.
+**Not Admitted**: 4,604 patients (≈50%)
 
-Average Wait Time: 35.2 minutes.
+**⏱️ Attendance Status**
+**Delayed**: 5,467 patients (59%)
 
-Gender Distribution:
+**On Time**: 3,749 patients (41%)
 
-Male: 256 patients
+**👥 Gender Distribution**
+**Male**: 4,729 patients
 
-Female: 232 patients
+**Female**: 4,487 patients
 
-Patient Satisfaction Score: An impressive average of 4.79 out of 5.
+**👶 Age Group Analysis**
+Most Affected Age Groups:
 
-Age Group Distribution:
+**20–29 years**: 1,207 patients
 
-Highest patient count in the 10-19 age group (73 patients).
+**30–39 years**: 1,191 patients
 
-Consistent distribution across other age groups, notably 40-49 and 50-59.
+**0–9 years**: 1,176 patients
 
-Department Referrals:
+**Least Affected Age Group**: 70–79 years: 1,048 patients
 
-Most patients had no referrals (290).
+**🏨 Department Referral Breakdown**
+No Referral: 5,400 patients
 
-Key departments referred include General Practice (93), Orthopedics (60), and Physiotherapy (12).
+Top Referral Departments:
 
-Satisfaction Score Trend (July): The score shows some daily fluctuations, but overall remains consistently high.
+General Practice: 1,840
+
+Orthopedics: 995
+
+Physiotherapy: 276
+
+Cardiology: 248
+
+Neurology: 193
+
+Gastroenterology: 178
+
+Renal: 86
+
+**📈 Trends Observed**
+Satisfaction Score Trend remained consistently high across both years.
+
+Noticeable spikes in satisfaction during mid-year months and improved score stability over time.
 
 **🛠 Features**
-Interactive monthly and yearly filtering
+Year and Month filter interactivity
 
-Breakdown of admission status and referral sources
+Age, gender, referral, and attendance analysis
 
-Gender and age group analysis
+Admission status breakdown
 
-Delay vs. on-time attendance visualization
+Daily trend tracking for satisfaction
 
-Daily satisfaction score trend analysis
+Clean and professional layout suitable for healthcare analytics
 
-**📌 Tools Used**
-Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
-**✅ Purpose**
-To demonstrate data visualization and analysis skills in Excel by simulating a real-world healthcare scenario focused on emergency room operations.
-
+**💡 Purpose**
+This dashboard highlights how Excel can be used as a powerful data visualization and reporting tool in healthcare environments. The project emphasizes the importance of tracking ER performance metrics, improving patient care, and using data to reduce delays and improve satisfaction.
